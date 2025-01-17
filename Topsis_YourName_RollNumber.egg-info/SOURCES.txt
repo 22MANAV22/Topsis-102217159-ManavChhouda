@@ -1,0 +1,9 @@
+setup.py
+Topsis_YourName_RollNumber.egg-info/PKG-INFO
+Topsis_YourName_RollNumber.egg-info/SOURCES.txt
+Topsis_YourName_RollNumber.egg-info/dependency_links.txt
+Topsis_YourName_RollNumber.egg-info/entry_points.txt
+Topsis_YourName_RollNumber.egg-info/requires.txt
+Topsis_YourName_RollNumber.egg-info/top_level.txt
+topsis/__init__.py
+topsis/topsis.py
